@@ -23,7 +23,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=-fbxIh
     <div class="media-body">
        <p class="media-heading">
           <strong>Designing for Wellbeing-as-Interaction</strong><br />
-          <b>Shannon Rodgers</b>, Brittany Maloney, Bernd Ploderer, Jason Hang, Zhishuai Zhang, Alan Yuille<br />
+          <b>Shannon Rodgers</b>, Brittany Maloney, Bernd Ploderer, Jason Hang<br />
           LBW, CHI 2019<br />
           <a href="https://eprints.qut.edu.au/128954/1/C52%20CHI19-MC-LBW.pdf">[PDF]</a><br />
        </p>
